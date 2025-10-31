@@ -3,9 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Functionality](#functionality)
-- [Printed Circuit Board](#printed-circuit-board)
-- [Enclosure Design](#enclosure-design)
-- [Contributors](#contributors)
 
 ## Introduction
 An electrocardiogram (ECG) is a diagnostic technique used to analyze the heart’s electrical activity by detecting the signals generated during each heartbeat through electrodes placed on the skin. The voltage difference between the right arm and left arm is amplified, incorporating a feedback mechanism through the right leg. ECG leads measure these voltages from the right arm, left arm, and right leg.  
